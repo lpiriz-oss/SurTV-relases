@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/surtv/SurTV-relases/main/schemas/latest.schema.json",
+  "title": "SurTV latest release manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "versionCode",
+    "versionName",
+    "minSupportedVersionCode",
+    "apkUrl",
+    "sha256",
+    "sizeBytes",
+    "releasedAt",
+    "mandatory",
+    "notes"
+  ],
+  "properties": {
+    "versionCode": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "versionName": {
+      "type": "string",
+      "minLength": 1
+    },
+    "minSupportedVersionCode": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "apkUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-fA-F0-9]{64}$"
+    },
+    "sizeBytes": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "releasedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "mandatory": {
+      "type": "boolean"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

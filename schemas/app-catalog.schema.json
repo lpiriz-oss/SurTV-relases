@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/surtv/SurTV-relases/main/schemas/app-catalog.schema.json",
+  "title": "SurTV app catalog",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema_version",
+    "generated_at",
+    "channels"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "catalog_version": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "minimum_app_version": {
+      "type": ["string", "null"]
+    },
+    "category_order": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "default": []
+    },
+    "channels": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/channel"
+      }
+    }
+  },
+  "$defs": {
+    "channel": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "channel_id",
+        "name",
+        "country",
+        "category",
+        "sort",
+        "stream_type"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "provider": {
+                "const": "flow"
+              }
+            },
+            "required": ["provider"]
+          },
+          "then": {
+            "required": ["flow_path"]
+          },
+          "else": {
+            "required": ["url"]
+          }
+        }
+      ],
+      "properties": {
+        "channel_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "country": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "collections": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "sort": {
+          "type": "integer"
+        },
+        "provider": {
+          "type": ["string", "null"]
+        },
+        "stream_type": {
+          "enum": ["hls", "dash", "progressive"]
+        },
+        "url": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "flow_path": {
+          "type": ["string", "null"]
+        },
+        "headers": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          },
+          "default": {}
+        },
+        "drm": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/drm"
+            }
+          ]
+        },
+        "logo_url": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "tvg_id": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "drm": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "key_id", "key"],
+      "properties": {
+        "type": {
+          "const": "clearkey"
+        },
+        "key_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "key": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}

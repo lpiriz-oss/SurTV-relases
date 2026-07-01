@@ -1,0 +1,985 @@
+{
+  "schema_version": 1,
+  "source": "PiposIPTV/data/canales.json",
+  "exported_count": 184,
+  "failure_count": 11,
+  "logos": [
+    {
+      "channel_id": "argentina-cinemax",
+      "name": "Cinemax",
+      "file": "argentina-cinemax.png"
+    },
+    {
+      "channel_id": "argentina-dsports",
+      "name": "DSports Argentina",
+      "file": "argentina-dsports.png"
+    },
+    {
+      "channel_id": "argentina-dsports-plus",
+      "name": "DSports + Argentina",
+      "file": "argentina-dsports-plus.png"
+    },
+    {
+      "channel_id": "argentina-encuentro",
+      "name": "Encuentro",
+      "file": "argentina-encuentro.png"
+    },
+    {
+      "channel_id": "argentina-flow-eventos-1",
+      "name": "Flow Eventos 1",
+      "file": "argentina-flow-eventos-1.png"
+    },
+    {
+      "channel_id": "argentina-flow-eventos-2",
+      "name": "Flow Eventos 2",
+      "file": "argentina-flow-eventos-2.png"
+    },
+    {
+      "channel_id": "argentina-flow-music-2",
+      "name": "Flow Music 2",
+      "file": "argentina-flow-music-2.png"
+    },
+    {
+      "channel_id": "argentina-kzo",
+      "name": "KZO",
+      "file": "argentina-kzo.png"
+    },
+    {
+      "channel_id": "argentina-los-simpsons",
+      "name": "Los Simpsons 24/7",
+      "file": "argentina-los-simpsons.png"
+    },
+    {
+      "channel_id": "argentina-tyc-sports-fan",
+      "name": "TyC Sports Fan",
+      "file": "argentina-tyc-sports-fan.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_a24",
+      "name": "A24",
+      "file": "ch--en-vivo-a24.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_a3cine",
+      "name": "A3 Cine",
+      "file": "ch--en-vivo-a3cine.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_adult-swim",
+      "name": "Adult Swim",
+      "file": "ch--en-vivo-adult-swim.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_ae",
+      "name": "AE",
+      "file": "ch--en-vivo-ae.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_amc_",
+      "name": "AMC",
+      "file": "ch--en-vivo-amc.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_america-sports",
+      "name": "América Sports",
+      "file": "ch--en-vivo-america-sports.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_america-tv",
+      "name": "América TV",
+      "file": "ch--en-vivo-america-tv.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_animal-planet",
+      "name": "Animal Planet",
+      "file": "ch--en-vivo-animal-planet.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_antena_3_",
+      "name": "Antena 3",
+      "file": "ch--en-vivo-antena-3.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_argentinisima_",
+      "name": "Argentinísima",
+      "file": "ch--en-vivo-argentinisima.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_atreseries",
+      "name": "A3 Series",
+      "file": "ch--en-vivo-atreseries.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_axn",
+      "name": "AXN",
+      "file": "ch--en-vivo-axn.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_babytv",
+      "name": "BabyTV",
+      "file": "ch--en-vivo-babytv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_bbc-news",
+      "name": "BBC News",
+      "file": "ch--en-vivo-bbc-news.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_bravotv",
+      "name": "Bravo TV",
+      "file": "ch--en-vivo-bravotv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_c5n_",
+      "name": "C5N",
+      "file": "ch--en-vivo-c5n.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_c9n",
+      "name": "C9N",
+      "file": "ch--en-vivo-c9n.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-10-cordoba",
+      "name": "Canal 10 Córdoba",
+      "file": "ch--en-vivo-canal-10-cordoba.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-10-junin",
+      "name": "Canal 10 Junín",
+      "file": "ch--en-vivo-canal-10-junin.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-10-mar-del-plata",
+      "name": "Canal 10 Mar del Plata",
+      "file": "ch--en-vivo-canal-10-mar-del-plata.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-12-misiones",
+      "name": "Canal 12 Misiones",
+      "file": "ch--en-vivo-canal-12-misiones.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-26",
+      "name": "Canal 26",
+      "file": "ch--en-vivo-canal-26.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-5-uruguay",
+      "name": "Canal 5 Uruguay",
+      "file": "ch--en-vivo-canal-5-uruguay.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-8-cordoba",
+      "name": "Telefe Córdoba",
+      "file": "ch--en-vivo-canal-8-cordoba.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-9-nordeste",
+      "name": "Canal 9 Nordeste",
+      "file": "ch--en-vivo-canal-9-nordeste.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-a",
+      "name": "Canal á",
+      "file": "ch--en-vivo-canal-a.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-pro",
+      "name": "Canal PRO Paraguay",
+      "file": "ch--en-vivo-canal-pro.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal10",
+      "name": "Canal 10",
+      "file": "ch--en-vivo-canal10.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal12cordoba_",
+      "name": "Canal 12 de Córdoba",
+      "file": "ch--en-vivo-canal12cordoba.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal4uy",
+      "name": "Canal 4",
+      "file": "ch--en-vivo-canal4uy.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal_5_rosario_",
+      "name": "Telefe Rosario",
+      "file": "ch--en-vivo-canal-5-rosario.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal_8_tucuman_",
+      "name": "El Ocho TV Tucuman",
+      "file": "ch--en-vivo-canal-8-tucuman.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canaldelaciudad",
+      "name": "Canal de la Ciudad",
+      "file": "ch--en-vivo-canaldelaciudad.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cartoon-network",
+      "name": "Cartoon Network",
+      "file": "ch--en-vivo-cartoon-network.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cartoonito",
+      "name": "Cartoonito",
+      "file": "ch--en-vivo-cartoonito.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cinear",
+      "name": "Cine AR",
+      "file": "ch--en-vivo-cinear.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cinecanal",
+      "name": "Cinecanal",
+      "file": "ch--en-vivo-cinecanal.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_ciudad-magazine",
+      "name": "Ciudad Magazine",
+      "file": "ch--en-vivo-ciudad-magazine.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cm",
+      "name": "CM Música",
+      "file": "ch--en-vivo-cm.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cnn-international",
+      "name": "CNN Internacional",
+      "file": "ch--en-vivo-cnn-international.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_comedy-central",
+      "name": "Comedy Central",
+      "file": "ch--en-vivo-comedy-central.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_cronica",
+      "name": "Crónica TV",
+      "file": "ch--en-vivo-cronica.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_deportv",
+      "name": "DeporTV",
+      "file": "ch--en-vivo-deportv.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_diputados_tv",
+      "name": "Diputados TV",
+      "file": "ch--en-vivo-diputados-tv.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery",
+      "name": "Discovery Channel",
+      "file": "ch--en-vivo-discovery.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-home-health",
+      "name": "Discovery Home & Health",
+      "file": "ch--en-vivo-discovery-home-health.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-id",
+      "name": "Discovery ID",
+      "file": "ch--en-vivo-discovery-id.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-kids",
+      "name": "Discovery Kids",
+      "file": "ch--en-vivo-discovery-kids.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-theater",
+      "name": "Discovery Theater",
+      "file": "ch--en-vivo-discovery-theater.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-tlc",
+      "name": "Discovery TLC",
+      "file": "ch--en-vivo-discovery-tlc.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-turbo",
+      "name": "Discovery Turbo",
+      "file": "ch--en-vivo-discovery-turbo.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery-world",
+      "name": "Discovery World",
+      "file": "ch--en-vivo-discovery-world.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_discovery_science_",
+      "name": "Discovery Science",
+      "file": "ch--en-vivo-discovery-science.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_disney-channel",
+      "name": "Disney Channel",
+      "file": "ch--en-vivo-disney-channel.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_disney-jr",
+      "name": "Disney Junior",
+      "file": "ch--en-vivo-disney-jr.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_dreamworks",
+      "name": "DreamWorks",
+      "file": "ch--en-vivo-dreamworks.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_dsports2_uy_",
+      "name": "Dsports 2 Uruguay",
+      "file": "ch--en-vivo-dsports2-uy.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_dsports_plus_uy_",
+      "name": "Dsports + Uruguay",
+      "file": "ch--en-vivo-dsports-plus-uy.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_dsports_uy_",
+      "name": "Dsports Uruguay",
+      "file": "ch--en-vivo-dsports-uy.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_e",
+      "name": "E! Entertainment",
+      "file": "ch--en-vivo-e.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_el-nueve",
+      "name": "El Nueve",
+      "file": "ch--en-vivo-el-nueve.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_el-trece",
+      "name": "El Trece",
+      "file": "ch--en-vivo-el-trece.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_el-trece-internacional",
+      "name": "El Trece Internacional",
+      "file": "ch--en-vivo-el-trece-internacional.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn",
+      "name": "ESPN 1",
+      "file": "ch--en-vivo-espn.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-2",
+      "name": "ESPN 2",
+      "file": "ch--en-vivo-espn-2.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-3",
+      "name": "ESPN 3",
+      "file": "ch--en-vivo-espn-3.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-4",
+      "name": "ESPN 4",
+      "file": "ch--en-vivo-espn-4.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-5",
+      "name": "ESPN 5",
+      "file": "ch--en-vivo-espn-5.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-6",
+      "name": "ESPN 6",
+      "file": "ch--en-vivo-espn-6.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-7",
+      "name": "ESPN 7",
+      "file": "ch--en-vivo-espn-7.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_espn-premium",
+      "name": "ESPN Premium",
+      "file": "ch--en-vivo-espn-premium.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_eurochannel",
+      "name": "Eurochannel",
+      "file": "ch--en-vivo-eurochannel.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_euronews",
+      "name": "Euronews",
+      "file": "ch--en-vivo-euronews.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_europa-europa",
+      "name": "Europa Europa",
+      "file": "ch--en-vivo-europa-europa.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_film-and-arts",
+      "name": "Film & Arts",
+      "file": "ch--en-vivo-film-and-arts.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_flow_music_1_",
+      "name": "Flow Music",
+      "file": "ch--en-vivo-flow-music-1.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_food_network_",
+      "name": "Food Network",
+      "file": "ch--en-vivo-food-network.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_fox-sports",
+      "name": "FOX Sports 1",
+      "file": "ch--en-vivo-fox-sports.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_fox-sports-2",
+      "name": "FOX Sports 2",
+      "file": "ch--en-vivo-fox-sports-2.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_fox-sports-3",
+      "name": "FOX Sports 3",
+      "file": "ch--en-vivo-fox-sports-3.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_fox_news_",
+      "name": "Fox News Channel",
+      "file": "ch--en-vivo-fox-news.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_fx",
+      "name": "FX",
+      "file": "ch--en-vivo-fx.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_gen_tv",
+      "name": "GEN TV - Paraguay",
+      "file": "ch--en-vivo-gen-tv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_golden",
+      "name": "Golden",
+      "file": "ch--en-vivo-golden.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_golf-channel",
+      "name": "Golf Channel",
+      "file": "ch--en-vivo-golf-channel.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_gourmet_",
+      "name": "Gourmet",
+      "file": "ch--en-vivo-gourmet.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo",
+      "name": "HBO",
+      "file": "ch--en-vivo-hbo.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-2",
+      "name": "HBO 2",
+      "file": "ch--en-vivo-hbo-2.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-family",
+      "name": "HBO Family",
+      "file": "ch--en-vivo-hbo-family.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-mundi",
+      "name": "HBO Mundi",
+      "file": "ch--en-vivo-hbo-mundi.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-plus",
+      "name": "HBO Plus",
+      "file": "ch--en-vivo-hbo-plus.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-pop",
+      "name": "HBO Pop",
+      "file": "ch--en-vivo-hbo-pop.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-sig",
+      "name": "HBO Signature",
+      "file": "ch--en-vivo-hbo-sig.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hbo-xtreme",
+      "name": "HBO Xtreme",
+      "file": "ch--en-vivo-hbo-xtreme.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_hgtv",
+      "name": "HGTV",
+      "file": "ch--en-vivo-hgtv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_history",
+      "name": "History",
+      "file": "ch--en-vivo-history.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_history-2",
+      "name": "History 2",
+      "file": "ch--en-vivo-history-2.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_htv",
+      "name": "HTV",
+      "file": "ch--en-vivo-htv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_ip",
+      "name": "Ip Noticias",
+      "file": "ch--en-vivo-ip.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_la_tele_c4_",
+      "name": "La Tele Paraguay",
+      "file": "ch--en-vivo-la-tele-c4.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_lifetime",
+      "name": "Lifetime",
+      "file": "ch--en-vivo-lifetime.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_ln",
+      "name": "La Nación +",
+      "file": "ch--en-vivo-ln.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_metro",
+      "name": "Metro",
+      "file": "ch--en-vivo-metro.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_natgeo",
+      "name": "National Geographic",
+      "file": "ch--en-vivo-natgeo.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_nba-tv",
+      "name": "NBA TV",
+      "file": "ch--en-vivo-nba-tv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_net_tv_",
+      "name": "Net TV",
+      "file": "ch--en-vivo-net-tv.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_nick",
+      "name": "Nickelodeon",
+      "file": "ch--en-vivo-nick.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_nickjr",
+      "name": "Nick Jr.",
+      "file": "ch--en-vivo-nickjr.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_noticias_py_c4_",
+      "name": "N PY Paraguay",
+      "file": "ch--en-vivo-noticias-py-c4.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_pasiones",
+      "name": "Pasiones",
+      "file": "ch--en-vivo-pasiones.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_plim-plim-tv",
+      "name": "Plim Plim TV",
+      "file": "ch--en-vivo-plim-plim-tv.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_rural",
+      "name": "Rural",
+      "file": "ch--en-vivo-rural.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_snt_c4_",
+      "name": "SNT Paraguay",
+      "file": "ch--en-vivo-snt-c4.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_sony-channel",
+      "name": "Sony Channel",
+      "file": "ch--en-vivo-sony-channel.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_space_",
+      "name": "Space",
+      "file": "ch--en-vivo-space.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_star-channel",
+      "name": "Star Channel",
+      "file": "ch--en-vivo-star-channel.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_studio_universal_",
+      "name": "Studio Universal",
+      "file": "ch--en-vivo-studio-universal.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_sun_channel_",
+      "name": "Sun Channel",
+      "file": "ch--en-vivo-sun-channel.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tcm",
+      "name": "TCM",
+      "file": "ch--en-vivo-tcm.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_teledoce",
+      "name": "Teledoce",
+      "file": "ch--en-vivo-teledoce.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telefe",
+      "name": "Telefe",
+      "file": "ch--en-vivo-telefe.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telefe-internacional",
+      "name": "Telefe Internacional",
+      "file": "ch--en-vivo-telefe-internacional.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telefe_neuquen_",
+      "name": "Telefe Neuquén",
+      "file": "ch--en-vivo-telefe-neuquen.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telefe_salta_",
+      "name": "Telefe Salta",
+      "file": "ch--en-vivo-telefe-salta.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telefuturo_c4_",
+      "name": "Telefuturo Paraguay",
+      "file": "ch--en-vivo-telefuturo-c4.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telejunin",
+      "name": "TeleJunín",
+      "file": "ch--en-vivo-telejunin.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telemax",
+      "name": "Telemax",
+      "file": "ch--en-vivo-telemax.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telemundo_hd_",
+      "name": "Telemundo Internacional",
+      "file": "ch--en-vivo-telemundo-hd.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_telesur",
+      "name": "teleSUR Colombia",
+      "file": "ch--en-vivo-telesur.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tln-novelas",
+      "name": "TLN Novelas",
+      "file": "ch--en-vivo-tln-novelas.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tn",
+      "name": "TN",
+      "file": "ch--en-vivo-tn.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tnt",
+      "name": "TNT",
+      "file": "ch--en-vivo-tnt.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tnt-novelas",
+      "name": "TNT Novelas",
+      "file": "ch--en-vivo-tnt-novelas.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tnt-series",
+      "name": "TNT Series",
+      "file": "ch--en-vivo-tnt-series.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tnt-sports",
+      "name": "TNT Sports Premium",
+      "file": "ch--en-vivo-tnt-sports.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tv-ciudad",
+      "name": "TV Ciudad",
+      "file": "ch--en-vivo-tv-ciudad.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tv-publica",
+      "name": "TV Pública",
+      "file": "ch--en-vivo-tv-publica.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tv5_monde_",
+      "name": "TV5 Monde",
+      "file": "ch--en-vivo-tv5-monde.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tv_chile_",
+      "name": "Tv Chile",
+      "file": "ch--en-vivo-tv-chile.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tv_espana_",
+      "name": "RTVE España",
+      "file": "ch--en-vivo-tv-espana.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tyc-sports",
+      "name": "TyC Sports",
+      "file": "ch--en-vivo-tyc-sports.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_tyc_internacional",
+      "name": "TyC Sports Internacional",
+      "file": "ch--en-vivo-tyc-internacional.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_unicanal",
+      "name": "Unicanal Paraguay",
+      "file": "ch--en-vivo-unicanal.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal-cinema",
+      "name": "Universal Cinema",
+      "file": "ch--en-vivo-universal-cinema.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal-comedy",
+      "name": "Universal Comedy",
+      "file": "ch--en-vivo-universal-comedy.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal-crime",
+      "name": "Universal Crime",
+      "file": "ch--en-vivo-universal-crime.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal-premiere",
+      "name": "Universal Premiere",
+      "file": "ch--en-vivo-universal-premiere.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal-reality",
+      "name": "Universal Reality",
+      "file": "ch--en-vivo-universal-reality.webp"
+    },
+    {
+      "channel_id": "ch-_en-vivo_universal_channel_hd_",
+      "name": "Universal TV",
+      "file": "ch--en-vivo-universal-channel-hd.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_volver",
+      "name": "Volver",
+      "file": "ch--en-vivo-volver.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_vorterix",
+      "name": "Vorterix",
+      "file": "ch--en-vivo-vorterix.png"
+    },
+    {
+      "channel_id": "ch-_en-vivo_warner",
+      "name": "Warner Channel",
+      "file": "ch--en-vivo-warner.webp"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1RVTFEWDFObGNtbGxjdz09",
+      "name": "AMC Series",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1rvtfewdfobgntbgxjdz09.png"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1SV3hmUjJGeVlXZGw_",
+      "name": "El Garage TV",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1sv3hmujjgevlxzgw.webp"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1TRzlzWVY5VVZnPT0_",
+      "name": "¡Hola! TV",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1trzlzwvy5vvznpt0.jpg"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1UVlJXWDBoRQ__",
+      "name": "MTV",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1uvljxwdborq.webp"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1VRUZMUVY5UVFVdEI_",
+      "name": "Pakapaka",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1vruzmuvy5uvfvdei.png"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1VWFZwWlhKdlgwaEU_",
+      "name": "Quiero Música",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1vwfzwwlhkdlgwaeu.webp"
+    },
+    {
+      "channel_id": "ch-_eventos_sin-chat__r_L2h0bWwvZmwvP2dldD1WVk5CWDA1bGRIZHZjbXM9",
+      "name": "USA Network",
+      "file": "ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1wvk5cwda1bgrizhzjbxm9.png"
+    },
+    {
+      "channel_id": "chile-tnt-sports-chile",
+      "name": "TNT Sports Chile",
+      "file": "chile-tnt-sports-chile.png"
+    },
+    {
+      "channel_id": "internacional-cnn-en-espanol",
+      "name": "CNN en Español",
+      "file": "internacional-cnn-en-espanol.png"
+    },
+    {
+      "channel_id": "internacional-playboy-tv",
+      "name": "Playboy TV",
+      "file": "internacional-playboy-tv.png"
+    },
+    {
+      "channel_id": "internacional-sextreme",
+      "name": "Sextreme",
+      "file": "internacional-sextreme.png"
+    },
+    {
+      "channel_id": "internacional-venus",
+      "name": "Venus",
+      "file": "internacional-venus.png"
+    },
+    {
+      "channel_id": "italia-rai-italia",
+      "name": "RAI Italia",
+      "file": "italia-rai-italia.png"
+    },
+    {
+      "channel_id": "test-canal-7-neuquen",
+      "name": "Canal 7 Neuquén",
+      "file": "test-canal-7-neuquen.png"
+    },
+    {
+      "channel_id": "test-dragon-ball-24-7",
+      "name": "Dragon Ball 24/7",
+      "file": "test-dragon-ball-24-7.png"
+    },
+    {
+      "channel_id": "test-dragon-ball-super-24-7",
+      "name": "Dragon Ball Super 24/7",
+      "file": "test-dragon-ball-super-24-7.png"
+    },
+    {
+      "channel_id": "test-las-estrellas",
+      "name": "Las Estrellas",
+      "file": "test-las-estrellas.png"
+    },
+    {
+      "channel_id": "test-radio-cumbia-mix",
+      "name": "Radio - Cumbia Mix",
+      "file": "test-radio-cumbia-mix.png"
+    },
+    {
+      "channel_id": "test-radio-fm-95-9-argentina",
+      "name": "Radio FM 95,9 Argentina",
+      "file": "test-radio-fm-95-9-argentina.png"
+    },
+    {
+      "channel_id": "test-sony-cine",
+      "name": "Sony Cine",
+      "file": "test-sony-cine.png"
+    },
+    {
+      "channel_id": "test-univision-hd",
+      "name": "Univision HD",
+      "file": "test-univision-hd.png"
+    },
+    {
+      "channel_id": "uruguay-flow-eventos-3",
+      "name": "Flow Eventos 3",
+      "file": "uruguay-flow-eventos-3.png"
+    }
+  ],
+  "failures": [
+    {
+      "channel_id": "test-fifa-plus-internacional",
+      "name": "FIFA+ Internacional",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-3-rosario",
+      "name": "Canal 3 Rosario",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-10-tucuman",
+      "name": "Canal 10 Tucumán",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_canal-c-cordoba",
+      "name": "Canal C Córdoba",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_america-tucuman",
+      "name": "América Tucumán",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_show-sports-cordoba",
+      "name": "Show Sports Córdoba",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_somos-bahia-blanca",
+      "name": "Somos Bahia Blanca",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_somos-corrientes",
+      "name": "Somos Corrientes",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_somos-el-valle",
+      "name": "Somos El Valle",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_somos-la-plata",
+      "name": "Somos La Plata",
+      "reason": "logo pendiente"
+    },
+    {
+      "channel_id": "ch-_en-vivo_somos-mar-del-plata",
+      "name": "Somos Mar del Plata",
+      "reason": "logo pendiente"
+    }
+  ]
+}

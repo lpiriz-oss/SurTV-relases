@@ -1,0 +1,33 @@
+name: Actualizar EPG
+
+on:
+  schedule:
+    - cron: "15 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Preparar EPG placeholder
+        run: |
+          mkdir -p epg
+          if [ ! -f epg/guide.xml ]; then
+            cat > epg/guide.xml <<'XML'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <tv generator-info-name="SurTV"></tv>
+          XML
+          fi
+      - name: Validar artefactos
+        run: python scripts/validate-public-artifacts.py
+      - name: Commit si hubo cambios
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar EPG publico"

@@ -1,0 +1,13 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/surtv/SurTV-relases/releases/download/v0.1.0/surtv-0.1.0.apk",
+  "sha256": "2f7c289384b3e70f585b6ae85bfe3b14cd4b36d4c0e1e6cf90e11c8af2c06523",
+  "sizeBytes": 3396502,
+  "releasedAt": "2026-07-01T22:38:05Z",
+  "mandatory": false,
+  "notes": [
+    "Release candidato 1.0 interno: catalogo cifrado, EPG local y logos publicos."
+  ]
+}
