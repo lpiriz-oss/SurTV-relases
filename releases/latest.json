@@ -1,13 +1,13 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.11",
+  "versionCode": 13,
+  "versionName": "0.1.12",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.11.apk",
-  "sha256": "830a4b884ac68e81a53dc751411731555a744775bf966da3d6e92643d11b5099",
-  "sizeBytes": 3462717,
-  "releasedAt": "2026-07-02T05:25:25Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.12.apk",
+  "sha256": "22d58fcfedb87279a05e23214bf60b808c651b222d5a5e1aeebfd1a89023a8cb",
+  "sizeBytes": 3462726,
+  "releasedAt": "2026-07-02T05:54:28Z",
   "mandatory": false,
   "notes": [
-    "Corrige navegacion de categorias adultas y evita activar secciones del rail con flecha derecha."
+    "Estabiliza la navegacion rapida con proxy Flow compartido y manejo seguro de desconexiones."
   ]
 }
