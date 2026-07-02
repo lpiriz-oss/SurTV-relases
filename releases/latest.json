@@ -1,13 +1,13 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
+  "versionCode": 8,
+  "versionName": "0.1.7",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.6.apk",
-  "sha256": "b1114ee4913abf92d0475b7a5ae887e0e16cc0f717cc5eb257ea4492d90c7552",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.7.apk",
+  "sha256": "fdfb3ddf71267e3b229869e7194b6c6400ee67f73f78b1640222066be3b75195",
   "sizeBytes": 3396768,
-  "releasedAt": "2026-07-02T03:56:02Z",
+  "releasedAt": "2026-07-02T04:02:32Z",
   "mandatory": false,
   "notes": [
-    "Centraliza la navegación del modal de actualización para controles Android TV."
+    "Corrige la navegación directa del modal de actualización desde el control remoto."
   ]
 }
