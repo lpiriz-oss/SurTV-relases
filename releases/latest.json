@@ -1,13 +1,13 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
+  "versionCode": 10,
+  "versionName": "0.1.9",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.8.apk",
-  "sha256": "f359307e5a6523a2a9c2223e66df94921539f4540f83925a72bbd527f0b86fa8",
-  "sizeBytes": 3446328,
-  "releasedAt": "2026-07-02T04:39:31Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.9.apk",
+  "sha256": "c86162c6d6feba69554c24c8d0cd877f2b46723ebcc7e0721fe813741b041926",
+  "sizeBytes": 3446340,
+  "releasedAt": "2026-07-02T04:44:32Z",
   "mandatory": false,
   "notes": [
-    "Mejoras de navegación, categorías protegidas e ícono de app actualizado."
+    "Mejoras de navegación, categorías protegidas, ícono actualizado y consulta de actualizaciones sin caché."
   ]
 }
