@@ -1,13 +1,13 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.10",
+  "versionCode": 12,
+  "versionName": "0.1.11",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.10.apk",
-  "sha256": "17b4d79b68aae06490dcbf0983f634e086b873999a2d3617fb556a94eac24b72",
-  "sizeBytes": 3462710,
-  "releasedAt": "2026-07-02T05:06:17Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.11.apk",
+  "sha256": "830a4b884ac68e81a53dc751411731555a744775bf966da3d6e92643d11b5099",
+  "sizeBytes": 3462717,
+  "releasedAt": "2026-07-02T05:25:25Z",
   "mandatory": false,
   "notes": [
-    "Ajustes de guia, desbloqueo adulto con feedback y limpieza visual de canales y EPG."
+    "Corrige navegacion de categorias adultas y evita activar secciones del rail con flecha derecha."
   ]
 }
