@@ -1,13 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.13",
+  "versionCode": 15,
+  "versionName": "0.1.14",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.13.apk",
-  "sha256": "baa577579a0d62592014dac4e6ddb95a3329c91e174b6df67e664a229c4c2ecb",
-  "sizeBytes": 3615444,
-  "releasedAt": "2026-07-02T12:52:06Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.14.apk",
+  "sha256": "38dc29d01577ed462176737542bb6eec4a559a4cdbe7fa58f199d4d5a97f218c",
+  "sizeBytes": 3619639,
+  "releasedAt": "2026-07-02T14:12:29Z",
   "mandatory": false,
   "notes": [
-    "Mejoras de reproductor, navegación de ajustes y nuevos assets visuales."
+    "Corrige audio en segundo plano, foco del reproductor y actualiza el logo de la app."
   ]
 }
