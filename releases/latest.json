@@ -1,13 +1,13 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
+  "versionCode": 3,
+  "versionName": "0.1.2",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.1.apk",
-  "sha256": "6483c05381777024aaea71ccd6c95e3512734ae841898263b69f06389151ec2f",
-  "sizeBytes": 3396771,
-  "releasedAt": "2026-07-02T03:23:58Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.2.apk",
+  "sha256": "a7ed1f74ed82667da9b2eb2ac7e62c75f749d0d2f4de7f2e136d034d83518c8f",
+  "sizeBytes": 3396761,
+  "releasedAt": "2026-07-02T03:33:28Z",
   "mandatory": false,
   "notes": [
-    "Correcciones de interfaz, preview en vivo y navegacion del rail."
+    "Correcciones del modal de actualización y navegación con control remoto."
   ]
 }
