@@ -1,13 +1,13 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.12",
+  "versionCode": 14,
+  "versionName": "0.1.13",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.12.apk",
-  "sha256": "22d58fcfedb87279a05e23214bf60b808c651b222d5a5e1aeebfd1a89023a8cb",
-  "sizeBytes": 3462726,
-  "releasedAt": "2026-07-02T05:54:28Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.13.apk",
+  "sha256": "baa577579a0d62592014dac4e6ddb95a3329c91e174b6df67e664a229c4c2ecb",
+  "sizeBytes": 3615444,
+  "releasedAt": "2026-07-02T12:52:06Z",
   "mandatory": false,
   "notes": [
-    "Estabiliza la navegacion rapida con proxy Flow compartido y manejo seguro de desconexiones."
+    "Mejoras de reproductor, navegación de ajustes y nuevos assets visuales."
   ]
 }
