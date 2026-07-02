@@ -1,13 +1,13 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.9",
+  "versionCode": 11,
+  "versionName": "0.1.10",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.9.apk",
-  "sha256": "c86162c6d6feba69554c24c8d0cd877f2b46723ebcc7e0721fe813741b041926",
-  "sizeBytes": 3446340,
-  "releasedAt": "2026-07-02T04:44:32Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.10.apk",
+  "sha256": "17b4d79b68aae06490dcbf0983f634e086b873999a2d3617fb556a94eac24b72",
+  "sizeBytes": 3462710,
+  "releasedAt": "2026-07-02T05:06:17Z",
   "mandatory": false,
   "notes": [
-    "Mejoras de navegación, categorías protegidas, ícono actualizado y consulta de actualizaciones sin caché."
+    "Ajustes de guia, desbloqueo adulto con feedback y limpieza visual de canales y EPG."
   ]
 }
