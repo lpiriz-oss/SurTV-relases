@@ -1,13 +1,13 @@
 {
-  "versionCode": 4,
-  "versionName": "0.1.3",
+  "versionCode": 5,
+  "versionName": "0.1.4",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.3.apk",
-  "sha256": "f74b92d5bf82e773d4254f60a591d9077f26209832a76cc7785179a4380e7384",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.4.apk",
+  "sha256": "e0fc2538f245ce69a3e59e99df75e9c66fc142dba465801647175ae697582ee9",
   "sizeBytes": 3396765,
-  "releasedAt": "2026-07-02T03:37:23Z",
+  "releasedAt": "2026-07-02T03:46:12Z",
   "mandatory": false,
   "notes": [
-    "Ajustes de navegación y foco del modal de actualización."
+    "Corrige la navegación del modal de actualización y textos de actualización."
   ]
 }
