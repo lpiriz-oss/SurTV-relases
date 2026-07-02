@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/surtv/SurTV-relases/main/schemas/app-catalog.schema.json",
+  "$id": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/schemas/app-catalog.schema.json",
   "title": "SurTV app catalog",
   "type": "object",
   "additionalProperties": true,
