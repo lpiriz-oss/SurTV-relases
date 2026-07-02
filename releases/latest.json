@@ -1,13 +1,13 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.1.8",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.7.apk",
-  "sha256": "fdfb3ddf71267e3b229869e7194b6c6400ee67f73f78b1640222066be3b75195",
-  "sizeBytes": 3396768,
-  "releasedAt": "2026-07-02T04:02:32Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.8.apk",
+  "sha256": "f359307e5a6523a2a9c2223e66df94921539f4540f83925a72bbd527f0b86fa8",
+  "sizeBytes": 3446328,
+  "releasedAt": "2026-07-02T04:39:31Z",
   "mandatory": false,
   "notes": [
-    "Corrige la navegación directa del modal de actualización desde el control remoto."
+    "Mejoras de navegación, categorías protegidas e ícono de app actualizado."
   ]
 }
