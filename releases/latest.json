@@ -1,13 +1,13 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.17",
+  "versionCode": 19,
+  "versionName": "0.1.18",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.17.apk",
-  "sha256": "7ddc67e3ed3d996d9c80b174143708a6dad82a412147d57e95020e2ae9cb6eab",
-  "sizeBytes": 3752360,
-  "releasedAt": "2026-07-04T01:20:38Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.18.apk",
+  "sha256": "9e2bcfce916f38eca2f91ee3da215fd9f7337e783225679b36bba1a5b0aa7ab7",
+  "sizeBytes": 3782051,
+  "releasedAt": "2026-07-04T05:09:41Z",
   "mandatory": false,
   "notes": [
-    "EPG remoto SurTV funcionando y fallback local actualizado."
+    "Rebranding a flexo, nueva pantalla de inicio y modales de actualización rediseñados."
   ]
 }
