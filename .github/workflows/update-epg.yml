@@ -45,11 +45,13 @@ jobs:
 
       - name: Restaurar catalogo operativo local
         env:
-          SURTV_CANALES_JSON_B64: ${{ secrets.SURTV_CANALES_JSON_B64 }}
+          SURTV_CANALES_JSON_PASSPHRASE: ${{ secrets.SURTV_CANALES_JSON_PASSPHRASE }}
         run: |
-          test -n "$SURTV_CANALES_JSON_B64"
-          mkdir -p SurTV/data
-          printf '%s' "$SURTV_CANALES_JSON_B64" | base64 -d > SurTV/data/canales.json
+          test -n "$SURTV_CANALES_JSON_PASSPHRASE"
+          openssl enc -d -aes-256-cbc -pbkdf2 \
+            -in SurTV/data/canales.json.enc \
+            -out SurTV/data/canales.json \
+            -pass env:SURTV_CANALES_JSON_PASSPHRASE
 
       - name: Validar configuracion EPG
         working-directory: SurTV
