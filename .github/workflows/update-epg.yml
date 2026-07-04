@@ -32,6 +32,7 @@ jobs:
           repository: lpiriz-oss/SurTV
           ref: main
           path: SurTV
+          token: ${{ secrets.SURTV_REPO_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
