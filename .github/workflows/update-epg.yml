@@ -84,6 +84,13 @@ jobs:
           python3 scripts/validar_epg.py --playlist test
           cp guides/test.xml ../SurTV-relases/epg/guide.xml
 
+      - name: Generar catalogo publico de metadata
+        working-directory: SurTV
+        run: |
+          python3 scripts/generate-public-metadata-catalog.py \
+            --collection test \
+            --output ../SurTV-relases/catalog/app-catalog.json
+
       - name: Validar artefactos publicos
         working-directory: SurTV-relases
         run: python3 scripts/validate-public-artifacts.py
@@ -92,5 +99,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           repository: SurTV-relases
-          commit_message: "Actualizar EPG publico"
-          file_pattern: epg/guide.xml
+          commit_message: "Actualizar EPG y catalogo publico"
+          file_pattern: epg/guide.xml catalog/app-catalog.json
