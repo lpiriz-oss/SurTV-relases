@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.15",
+  "versionCode": 17,
+  "versionName": "0.1.16",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.15.apk",
-  "sha256": "001738e21d5b876ed5e5f4f410c52d19cd6834188287ca23fea4f42fefbd990b",
-  "sizeBytes": 3619627,
-  "releasedAt": "2026-07-02T14:46:07Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.16.apk",
+  "sha256": "6a8aaca1d3d218091eaffb788aa66ba9e60c3426cee9e7b01cef06141e2710e2",
+  "sizeBytes": 3619849,
+  "releasedAt": "2026-07-04T00:19:49Z",
   "mandatory": false,
   "notes": [
-    "Corrige navegacion y seleccion de audio, subtitulos y calidad en el reproductor."
+    "Mejora navegacion circular de guia, foco visual e iconos del reproductor."
   ]
 }
