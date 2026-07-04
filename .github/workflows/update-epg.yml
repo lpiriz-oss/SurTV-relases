@@ -2,32 +2,92 @@ name: Actualizar EPG
 
 on:
   schedule:
-    - cron: "15 8 * * *"
+    - cron: "15 5,17 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: surtv-update-epg
+  cancel-in-progress: true
 
 permissions:
   contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+  NPM_CONFIG_AUDIT: "false"
+  NPM_CONFIG_FUND: "false"
 
 jobs:
   update-epg:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout artefactos publicos
+        uses: actions/checkout@v4
+        with:
+          path: SurTV-relases
+
+      - name: Checkout pipeline SurTV
+        uses: actions/checkout@v4
+        with:
+          repository: lpiriz-oss/SurTV
+          ref: main
+          path: SurTV
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Preparar EPG placeholder
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Restaurar catalogo operativo local
+        env:
+          SURTV_CANALES_JSON_B64: ${{ secrets.SURTV_CANALES_JSON_B64 }}
         run: |
-          mkdir -p epg
-          if [ ! -f epg/guide.xml ]; then
-            cat > epg/guide.xml <<'XML'
-          <?xml version="1.0" encoding="UTF-8"?>
-          <tv generator-info-name="SurTV"></tv>
-          XML
-          fi
-      - name: Validar artefactos
-        run: python scripts/validate-public-artifacts.py
+          test -n "$SURTV_CANALES_JSON_B64"
+          mkdir -p SurTV/data
+          printf '%s' "$SURTV_CANALES_JSON_B64" | base64 -d > SurTV/data/canales.json
+
+      - name: Validar configuracion EPG
+        working-directory: SurTV
+        run: python3 scripts/validar_epg.py --config-only
+
+      - name: Actualizar fuentes XMLTV
+        working-directory: SurTV
+        env:
+          SURTV_EPG_FLOW_URL: ${{ secrets.SURTV_EPG_FLOW_URL }}
+          SURTV_EPG_IPTV_ORG_URL: ${{ secrets.SURTV_EPG_IPTV_ORG_URL }}
+          SURTV_EPG_GATOTV_URL: ${{ secrets.SURTV_EPG_GATOTV_URL }}
+        run: python3 scripts/actualizar_fuentes_epg.py --continue-on-source-error
+
+      - name: Importar EPG externo
+        working-directory: SurTV
+        env:
+          SURTV_EPG_FLOW_URL: ${{ secrets.SURTV_EPG_FLOW_URL }}
+          SURTV_EPG_IPTV_ORG_URL: ${{ secrets.SURTV_EPG_IPTV_ORG_URL }}
+          SURTV_EPG_GATOTV_URL: ${{ secrets.SURTV_EPG_GATOTV_URL }}
+        run: python3 scripts/importar_epg_externo.py --strict-coverage
+
+      - name: Generar guia XMLTV publica
+        working-directory: SurTV
+        env:
+          GITHUB_USER: lpiriz-oss
+          GITHUB_REPO: SurTV
+        run: |
+          python3 scripts/generar_epg.py --playlist test
+          python3 scripts/validar_epg.py --playlist test
+          cp guides/test.xml ../SurTV-relases/epg/guide.xml
+
+      - name: Validar artefactos publicos
+        working-directory: SurTV-relases
+        run: python3 scripts/validate-public-artifacts.py
+
       - name: Commit si hubo cambios
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          repository: SurTV-relases
           commit_message: "Actualizar EPG publico"
+          file_pattern: epg/guide.xml
