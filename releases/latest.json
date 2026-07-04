@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.16",
+  "versionCode": 18,
+  "versionName": "0.1.17",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.16.apk",
-  "sha256": "6a8aaca1d3d218091eaffb788aa66ba9e60c3426cee9e7b01cef06141e2710e2",
-  "sizeBytes": 3619849,
-  "releasedAt": "2026-07-04T00:19:49Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.17.apk",
+  "sha256": "7ddc67e3ed3d996d9c80b174143708a6dad82a412147d57e95020e2ae9cb6eab",
+  "sizeBytes": 3752360,
+  "releasedAt": "2026-07-04T01:20:38Z",
   "mandatory": false,
   "notes": [
-    "Mejora navegacion circular de guia, foco visual e iconos del reproductor."
+    "EPG remoto SurTV funcionando y fallback local actualizado."
   ]
 }
