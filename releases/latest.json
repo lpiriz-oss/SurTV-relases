@@ -1,15 +1,15 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.19",
+  "versionCode": 21,
+  "versionName": "0.1.20",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.19.apk",
-  "sha256": "62f3e6b7809138a50aef507c13792461f1db7c5155680662128e3bd21bee309b",
-  "sizeBytes": 3799733,
-  "releasedAt": "2026-07-04T13:17:14Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.20.apk",
+  "sha256": "d49cfcf5dda224f135c14eaab213a83f50ba5515edfbf79492a903b21a042870",
+  "sizeBytes": 3799735,
+  "releasedAt": "2026-07-04T13:33:13Z",
   "mandatory": false,
   "notes": [
-    "Nuevo menú de Ajustes con personalización visual, reproducción, guía y sistema.",
-    "Las opciones de apariencia se aplican en caliente, con más colores flexo y realce visible.",
-    "Mejoras de navegación en Ajustes y selectores de opciones más estables."
+    "El estilo de selección ahora también se aplica en la guía de TV.",
+    "Mejor navegación en selectores largos de Ajustes.",
+    "Limpieza de información mostrada en Guía y Sistema."
   ]
 }
