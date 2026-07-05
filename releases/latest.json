@@ -1,15 +1,13 @@
 {
-  "versionCode": 22,
-  "versionName": "0.1.21",
+  "versionCode": 23,
+  "versionName": "0.1.22",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.21.apk",
-  "sha256": "2be48bfdd99a0559763571cf5dc0b09480c5b22c9efd41bfacff642920a3c028",
-  "sizeBytes": 3816111,
-  "releasedAt": "2026-07-04T13:47:50Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.22.apk",
+  "sha256": "fb886bfe813eab9c0f5d2af2009eef10dd51d99a20c01332a4875b5803d8c815",
+  "sizeBytes": 3816114,
+  "releasedAt": "2026-07-05T02:24:10Z",
   "mandatory": false,
   "notes": [
-    "Nuevo estilo de subtítulos amarillos.",
-    "El estilo y tamaño de subtítulos ahora se aplican al reproductor.",
-    "La pista de audio y subtítulos elegida se recuerda por canal."
+    "Favoritos ahora muestra tarjetas limpias con logo y nombre, navegación en grilla y sincronización de datos mejorada."
   ]
 }
