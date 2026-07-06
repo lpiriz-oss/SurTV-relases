@@ -1,14 +1,13 @@
 {
-  "versionCode": 24,
-  "versionName": "0.1.23",
+  "versionCode": 25,
+  "versionName": "0.1.24",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.23.apk",
-  "sha256": "8b76c6732f589720d0534c77ea64c346fd1056542899306da90dae27887c0b98",
-  "sizeBytes": 3833159,
-  "releasedAt": "2026-07-05T16:42:54Z",
-  "mandatory": false,
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.24.apk",
+  "sha256": "bbef52d7a6b91841b97e8a6e2e81c34d9829f77b581bc47824a8480c1f849b56",
+  "sizeBytes": 3855949,
+  "releasedAt": "2026-07-06T02:52:16Z",
+  "mandatory": true,
   "notes": [
-    "Nuevo modo multipantalla con hasta tres canales, audio en la pantalla seleccionada y menú contextual por pantalla.",
-    "Mejoras visuales en Favoritos y en el menú Canales del reproductor."
+    "Corrección de reproducción de canales HTTP (cleartext traffic permitted)"
   ]
 }
