@@ -1,13 +1,13 @@
 {
-  "versionCode": 25,
-  "versionName": "0.1.24",
+  "versionCode": 26,
+  "versionName": "0.1.25",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.24.apk",
-  "sha256": "bbef52d7a6b91841b97e8a6e2e81c34d9829f77b581bc47824a8480c1f849b56",
-  "sizeBytes": 3855949,
-  "releasedAt": "2026-07-06T02:52:16Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.25.apk",
+  "sha256": "82dd29d90ae2c9e6cdf2867790dd71c4a3278532994add0a4c44bb6468cacce1",
+  "sizeBytes": 3871351,
+  "releasedAt": "2026-07-06T03:02:37Z",
   "mandatory": true,
   "notes": [
-    "Corrección de reproducción de canales HTTP (cleartext traffic permitted)"
+    "Inclusión de canales de Pruebas en el bundle encriptado local."
   ]
 }
