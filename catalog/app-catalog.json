@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalog_version": 1783364926,
-  "generated_at": "2026-07-06T19:08:46Z",
+  "catalog_version": 1783414025,
+  "generated_at": "2026-07-07T08:47:05Z",
   "minimum_app_version": "0.1.0",
   "category_order": [
     "Nacionales",
@@ -32,7 +32,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://bestleague.world/img/a3cine.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-a3cine.png",
       "tvg_id": "A3CINE.uy"
     },
     {
@@ -45,7 +47,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://bestleague.world/img/america.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-america-tv.webp",
       "tvg_id": "AmericaTV.ar"
     },
     {
@@ -58,7 +62,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/LogoBabyTV-2021-MAIN_logo.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-babytv.png",
       "tvg_id": "babytv.ar"
     },
     {
@@ -71,7 +77,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/cm-el-canal-de-la-musica-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cm.png",
       "tvg_id": "canal_de_musica.ar"
     },
     {
@@ -84,7 +92,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://bestleague.world/img/canal4uy.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal4uy.webp",
       "tvg_id": "CANAL4.uy"
     },
     {
@@ -97,7 +107,9 @@
         "master"
       ],
       "sort": 1010,
-      "logo_url": "https://bestleague.world/img/deportv.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-deportv.webp",
       "tvg_id": "DeporTV.ar"
     },
     {
@@ -110,7 +122,9 @@
         "master"
       ],
       "sort": 1010,
-      "logo_url": "https://bestleague.world/img/disworld.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-world.webp",
       "tvg_id": "DISCOVERYWORLD.uy"
     },
     {
@@ -123,7 +137,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/flow-eventos.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-flow-eventos-1.png",
       "tvg_id": "floweventos1.ar"
     },
     {
@@ -136,7 +152,9 @@
         "test"
       ],
       "sort": 1010,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/playboy-tv-es.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/internacional-playboy-tv.png",
       "tvg_id": "playboytv.ar"
     },
     {
@@ -149,7 +167,9 @@
         "test"
       ],
       "sort": 1015,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Large.ElCanaldelPayasoPlimPlim29.png.86c6cbf2fc741312e0c244f84eec14e6.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-plim-plim-tv.png",
       "tvg_id": "plimplim.ar"
     },
     {
@@ -162,7 +182,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/atreseries-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-atreseries.png",
       "tvg_id": "atreseries.es"
     },
     {
@@ -175,7 +197,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/america-sports-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-america-sports.png",
       "tvg_id": "AmericaSports.ar"
     },
     {
@@ -188,7 +212,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-5-uruguay.png",
       "tvg_id": "CANAL5.uy"
     },
     {
@@ -201,7 +227,9 @@
         "master"
       ],
       "sort": 1020,
-      "logo_url": "https://bestleague.world/img/cart.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cartoonito.webp",
       "tvg_id": "Cartoonito.ar"
     },
     {
@@ -214,7 +242,9 @@
         "master"
       ],
       "sort": 1020,
-      "logo_url": "https://bestleague.world/img/discovery.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery.webp",
       "tvg_id": "DiscoveryChannel.ar"
     },
     {
@@ -227,7 +257,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/flow-eventos.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-flow-eventos-2.png",
       "tvg_id": "floweventos2.ar"
     },
     {
@@ -240,7 +272,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/sextreme-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/internacional-sextreme.png",
       "tvg_id": "sextreme.ar"
     },
     {
@@ -253,7 +287,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://bestleague.world/img/telefe.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telefe.png",
       "tvg_id": "Telefe.ar"
     },
     {
@@ -266,7 +302,9 @@
         "test"
       ],
       "sort": 1020,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/logo_vorterix-horizontal.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-vorterix.png",
       "tvg_id": "vorterix.ar"
     },
     {
@@ -279,6 +317,8 @@
         "test"
       ],
       "sort": 1025,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://i.ibb.co/QnqdqBV/ss.png",
       "tvg_id": "showsportscordoba.ar"
     },
@@ -292,7 +332,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://bestleague.world/img/ae.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-ae.webp",
       "tvg_id": "AandE.uy"
     },
     {
@@ -305,7 +347,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://bestleague.world/img/canal10.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal10.webp",
       "tvg_id": "CANAL10.uy"
     },
     {
@@ -318,7 +362,9 @@
         "master"
       ],
       "sort": 1030,
-      "logo_url": "https://bestleague.world/img/distheater.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-theater.webp",
       "tvg_id": "DISCOVERYTHEATER.uy"
     },
     {
@@ -331,7 +377,9 @@
         "master"
       ],
       "sort": 1030,
-      "logo_url": "https://bestleague.world/img/disney.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-disney-channel.webp",
       "tvg_id": "DisneyChannel.ar"
     },
     {
@@ -344,7 +392,9 @@
         "master"
       ],
       "sort": 1030,
-      "logo_url": "https://bestleague.world/img/espn.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn.webp",
       "tvg_id": "ESPN.ar"
     },
     {
@@ -357,7 +407,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/flow-eventos.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/uruguay-flow-eventos-3.png",
       "tvg_id": "floweventos3.uy"
     },
     {
@@ -370,7 +422,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/htv-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-htv.png",
       "tvg_id": "htv.ar"
     },
     {
@@ -383,7 +437,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Telefe_Rosario_(2018).png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-5-rosario.png",
       "tvg_id": "TelefeRosario.ar"
     },
     {
@@ -396,7 +452,9 @@
         "test"
       ],
       "sort": 1030,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/venus-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/internacional-venus.png",
       "tvg_id": "venus.ar"
     },
     {
@@ -409,7 +467,9 @@
         "test"
       ],
       "sort": 1040,
-      "logo_url": "https://bestleague.world/img/amc.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-amc.webp",
       "tvg_id": "amc.ar"
     },
     {
@@ -422,7 +482,9 @@
         "master"
       ],
       "sort": 1040,
-      "logo_url": "https://bestleague.world/img/tlc.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-tlc.webp",
       "tvg_id": "TLC.ar"
     },
     {
@@ -435,7 +497,9 @@
         "master"
       ],
       "sort": 1040,
-      "logo_url": "https://bestleague.world/img/disneyjr.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-disney-jr.webp",
       "tvg_id": "DisneyJunior.ar"
     },
     {
@@ -448,7 +512,9 @@
         "master"
       ],
       "sort": 1040,
-      "logo_url": "https://bestleague.world/img/espn2.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-2.webp",
       "tvg_id": "ESPN2.ar"
     },
     {
@@ -461,7 +527,9 @@
         "test"
       ],
       "sort": 1040,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/gfm_lockup_white.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-flow-music-1.webp",
       "tvg_id": "FlowMusic.ar"
     },
     {
@@ -474,7 +542,9 @@
         "test"
       ],
       "sort": 1040,
-      "logo_url": "https://bestleague.world/img/teledoce.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-teledoce.webp",
       "tvg_id": "LATELE.uy"
     },
     {
@@ -487,7 +557,9 @@
         "test"
       ],
       "sort": 1040,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/telefe-cordoba.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-8-cordoba.png",
       "tvg_id": "telefe_cordoba.ar"
     },
     {
@@ -500,7 +572,9 @@
         "test"
       ],
       "sort": 1050,
-      "logo_url": "https://bestleague.world/img/axn.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-axn.webp",
       "tvg_id": "AXN.ar"
     },
     {
@@ -513,7 +587,9 @@
         "test"
       ],
       "sort": 1050,
-      "logo_url": "https://bestleague.world/img/bravotv.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-bravotv.png",
       "tvg_id": null
     },
     {
@@ -526,7 +602,9 @@
         "master"
       ],
       "sort": 1050,
-      "logo_url": "https://bestleague.world/img/turbo.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-turbo.webp",
       "tvg_id": "DiscoveryTurbo.ar"
     },
     {
@@ -539,7 +617,9 @@
         "master"
       ],
       "sort": 1050,
-      "logo_url": "https://bestleague.world/img/espn3.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-3.webp",
       "tvg_id": "ESPN3.ar"
     },
     {
@@ -552,7 +632,9 @@
         "test"
       ],
       "sort": 1050,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/gfm_lockup_white.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-flow-music-2.png",
       "tvg_id": "flowmusic2.ar"
     },
     {
@@ -565,7 +647,9 @@
         "master"
       ],
       "sort": 1050,
-      "logo_url": "https://bestleague.world/img/nickjr.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-nickjr.webp",
       "tvg_id": "NickJr..ar"
     },
     {
@@ -578,7 +662,9 @@
         "test"
       ],
       "sort": 1050,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/telefe-nqn.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telefe-neuquen.webp",
       "tvg_id": "Telefe.ar"
     },
     {
@@ -591,7 +677,9 @@
         "test"
       ],
       "sort": 1060,
-      "logo_url": "https://bestleague.world/img/cinecanal.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cinecanal.webp",
       "tvg_id": "Cinecanal.ar"
     },
     {
@@ -604,7 +692,9 @@
         "master"
       ],
       "sort": 1060,
-      "logo_url": "https://bestleague.world/img/id.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-id.webp",
       "tvg_id": "InvestigationDiscovery.ar"
     },
     {
@@ -617,7 +707,9 @@
         "master"
       ],
       "sort": 1060,
-      "logo_url": "https://bestleague.world/img/espn4.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-4.webp",
       "tvg_id": "ESPN4.ar"
     },
     {
@@ -630,7 +722,9 @@
         "test"
       ],
       "sort": 1060,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/fox-news-us.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-fox-news.png",
       "tvg_id": "FoxNews.us"
     },
     {
@@ -643,7 +737,9 @@
         "master"
       ],
       "sort": 1060,
-      "logo_url": "https://bestleague.world/img/nick.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-nick.png",
       "tvg_id": "NICKELODEON.uy"
     },
     {
@@ -656,7 +752,9 @@
         "test"
       ],
       "sort": 1060,
-      "logo_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-radio-cumbia-mix.png",
       "tvg_id": "radio_cumbia_mix.ar"
     },
     {
@@ -669,7 +767,9 @@
         "test"
       ],
       "sort": 1060,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Telefe_Salta_(2018).png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telefe-salta.png",
       "tvg_id": "Telefe.ar"
     },
     {
@@ -682,7 +782,9 @@
         "test"
       ],
       "sort": 1070,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/cnn-en-espanol-ar.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/internacional-cnn-en-espanol.png",
       "tvg_id": "cnn_en_espanol.ar"
     },
     {
@@ -695,7 +797,9 @@
         "test"
       ],
       "sort": 1070,
-      "logo_url": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-canal-7-neuquen.png",
       "tvg_id": "canal_7_neuquen.ar"
     },
     {
@@ -708,7 +812,9 @@
         "test"
       ],
       "sort": 1070,
-      "logo_url": "https://bestleague.world/img/cinear.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cinear.png",
       "tvg_id": "CineAr.ar"
     },
     {
@@ -721,7 +827,9 @@
         "test"
       ],
       "sort": 1070,
-      "logo_url": "https://bestleague.world/img/disscience.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-science.webp",
       "tvg_id": "discoveryscience.ar"
     },
     {
@@ -734,7 +842,9 @@
         "master"
       ],
       "sort": 1070,
-      "logo_url": "https://bestleague.world/img/espn5.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-5.webp",
       "tvg_id": "ESPNSur.ar"
     },
     {
@@ -747,7 +857,9 @@
         "master"
       ],
       "sort": 1070,
-      "logo_url": "https://bestleague.world/img/pakapaka.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1vruzmuvy5uvfvdei.png",
       "tvg_id": "Pakapaka.ar"
     },
     {
@@ -760,7 +872,9 @@
         "test"
       ],
       "sort": 1070,
-      "logo_url": "https://i.imgur.com/TJ4gWQM.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-radio-fm-95-9-argentina.png",
       "tvg_id": "radio_fm_95_9_argentina.ar"
     },
     {
@@ -773,7 +887,9 @@
         "test"
       ],
       "sort": 1080,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/cnn-internacional.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cnn-international.png",
       "tvg_id": "cnn_international.us"
     },
     {
@@ -786,7 +902,9 @@
         "master"
       ],
       "sort": 1080,
-      "logo_url": "https://bestleague.world/img/cn.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cartoon-network.webp",
       "tvg_id": "CartoonNetwork.ar"
     },
     {
@@ -799,7 +917,9 @@
         "master"
       ],
       "sort": 1080,
-      "logo_url": "https://bestleague.world/img/espn6.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-6.webp",
       "tvg_id": "ESPNSur2.ar"
     },
     {
@@ -812,7 +932,9 @@
         "test"
       ],
       "sort": 1080,
-      "logo_url": "https://bestleague.world/img/eltrece.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-el-trece.webp",
       "tvg_id": "ELTrece.ar"
     },
     {
@@ -825,7 +947,9 @@
         "test"
       ],
       "sort": 1080,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/europa-europa-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-europa-europa.png",
       "tvg_id": "europa_europa.ar"
     },
     {
@@ -838,7 +962,9 @@
         "master"
       ],
       "sort": 1080,
-      "logo_url": "https://bestleague.world/img/natgeo.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-natgeo.webp",
       "tvg_id": "NationalGeographic.ar"
     },
     {
@@ -851,6 +977,8 @@
         "test"
       ],
       "sort": 1085,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
       "tvg_id": "canal3rosario.ar"
     },
@@ -864,7 +992,9 @@
         "master"
       ],
       "sort": 1090,
-      "logo_url": "https://bestleague.world/img/aplanet.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-animal-planet.webp",
       "tvg_id": "AnimalPlanet.ar"
     },
     {
@@ -877,7 +1007,9 @@
         "master"
       ],
       "sort": 1090,
-      "logo_url": "https://bestleague.world/img/docor.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal12cordoba.png",
       "tvg_id": "canal12cordoba.ar"
     },
     {
@@ -890,7 +1022,9 @@
         "test"
       ],
       "sort": 1090,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/dreamworks-channel-es.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-dreamworks.png",
       "tvg_id": "dreamworkshd.ar"
     },
     {
@@ -903,7 +1037,9 @@
         "master"
       ],
       "sort": 1090,
-      "logo_url": "https://bestleague.world/img/espn7.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-7.png",
       "tvg_id": "ESPNSur3.ar"
     },
     {
@@ -916,7 +1052,9 @@
         "test"
       ],
       "sort": 1090,
-      "logo_url": "https://bestleague.world/img/nueve.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-el-nueve.webp",
       "tvg_id": "ELNueve.ar"
     },
     {
@@ -929,7 +1067,9 @@
         "test"
       ],
       "sort": 1090,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/euro-channel-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-eurochannel.png",
       "tvg_id": "eurochannel.br"
     },
     {
@@ -942,7 +1082,9 @@
         "test"
       ],
       "sort": 1090,
-      "logo_url": "https://bestleague.world/img/euronews.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-euronews.png",
       "tvg_id": "euronews.fr"
     },
     {
@@ -955,7 +1097,9 @@
         "test"
       ],
       "sort": 1095,
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-9-nordeste.png",
       "tvg_id": "canal9nordeste.ar"
     },
     {
@@ -968,7 +1112,9 @@
         "test"
       ],
       "sort": 1100,
-      "logo_url": "https://bestleague.world/img/a24.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-a24.webp",
       "tvg_id": "A24.ar"
     },
     {
@@ -981,7 +1127,9 @@
         "test"
       ],
       "sort": 1100,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/BBC_News_2022_(Alt).svg.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-bbc-news.png",
       "tvg_id": "bbc_world_news.ar"
     },
     {
@@ -994,7 +1142,9 @@
         "master"
       ],
       "sort": 1100,
-      "logo_url": "https://bestleague.world/img/diskids.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-discovery-kids.webp",
       "tvg_id": "DiscoveryKids.ar"
     },
     {
@@ -1007,7 +1157,9 @@
         "test"
       ],
       "sort": 1100,
-      "logo_url": "https://bestleague.world/img/e.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-e.webp",
       "tvg_id": "ENTERTAINMENTTELEVISION.uy"
     },
     {
@@ -1020,7 +1172,9 @@
         "master"
       ],
       "sort": 1100,
-      "logo_url": "https://bestleague.world/img/espnpr.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-espn-premium.webp",
       "tvg_id": "ESPNExtra.ar"
     },
     {
@@ -1033,7 +1187,9 @@
         "master"
       ],
       "sort": 1100,
-      "logo_url": "https://bestleague.world/img/history.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-history.webp",
       "tvg_id": "History.ar"
     },
     {
@@ -1046,7 +1202,9 @@
         "test"
       ],
       "sort": 1110,
-      "logo_url": "https://bestleague.world/img/c5n.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-c5n.webp",
       "tvg_id": "c5n.ar"
     },
     {
@@ -1059,7 +1217,9 @@
         "master"
       ],
       "sort": 1110,
-      "logo_url": "https://bestleague.world/img/foxnew.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-fox-sports.png",
       "tvg_id": "FOXSports.ar"
     },
     {
@@ -1072,7 +1232,9 @@
         "master"
       ],
       "sort": 1110,
-      "logo_url": "https://bestleague.world/img/history2.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-history-2.webp",
       "tvg_id": "History2.ar"
     },
     {
@@ -1085,7 +1247,9 @@
         "test"
       ],
       "sort": 1110,
-      "logo_url": "https://bestleague.world/img/star.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-star-channel.webp",
       "tvg_id": "StarChannel.ar"
     },
     {
@@ -1098,7 +1262,9 @@
         "test"
       ],
       "sort": 1110,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/TeleSUR-Logo.svg.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telesur.png",
       "tvg_id": "telesur.ar"
     },
     {
@@ -1111,7 +1277,9 @@
         "master"
       ],
       "sort": 1120,
-      "logo_url": "https://bestleague.world/img/foxnew2.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-fox-sports-2.png",
       "tvg_id": "FOXSports2.ar"
     },
     {
@@ -1124,7 +1292,9 @@
         "test"
       ],
       "sort": 1120,
-      "logo_url": "https://bestleague.world/img/fx.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-fx.webp",
       "tvg_id": "FX.ar"
     },
     {
@@ -1137,7 +1307,9 @@
         "test"
       ],
       "sort": 1120,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/el-gourmet.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-gourmet.png",
       "tvg_id": "elgourmet.ar"
     },
     {
@@ -1150,7 +1322,9 @@
         "test"
       ],
       "sort": 1120,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/lifetime-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-lifetime.png",
       "tvg_id": "lifetime.ar"
     },
     {
@@ -1163,7 +1337,9 @@
         "test"
       ],
       "sort": 1120,
-      "logo_url": "https://bestleague.world/img/tn.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tn.png",
       "tvg_id": "TN.ar"
     },
     {
@@ -1176,7 +1352,9 @@
         "master"
       ],
       "sort": 1130,
-      "logo_url": "https://bestleague.world/img/foxnew3.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-fox-sports-3.png",
       "tvg_id": "FOXSports3.ar"
     },
     {
@@ -1189,7 +1367,9 @@
         "test"
       ],
       "sort": 1130,
-      "logo_url": "https://bestleague.world/img/film.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-film-and-arts.png",
       "tvg_id": "filmAndarts.ar"
     },
     {
@@ -1202,7 +1382,9 @@
         "test"
       ],
       "sort": 1130,
-      "logo_url": "https://bestleague.world/img/ln.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-ln.webp",
       "tvg_id": "LN+.ar"
     },
     {
@@ -1215,7 +1397,9 @@
         "test"
       ],
       "sort": 1130,
-      "logo_url": "https://bestleague.world/img/holatv.jpg",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1trzlzwvy5vvznpt0.jpg",
       "tvg_id": "HOLATV.uy"
     },
     {
@@ -1228,7 +1412,9 @@
         "test"
       ],
       "sort": 1140,
-      "logo_url": "https://bestleague.world/img/cronica.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-cronica.png",
       "tvg_id": "CronicaTV.ar"
     },
     {
@@ -1241,7 +1427,9 @@
         "test"
       ],
       "sort": 1140,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/gen-_1_.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-gen-tv.png",
       "tvg_id": "Gen.py"
     },
     {
@@ -1254,7 +1442,9 @@
         "test"
       ],
       "sort": 1140,
-      "logo_url": "https://bestleague.world/img/space.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-space.webp",
       "tvg_id": "space.ar"
     },
     {
@@ -1267,7 +1457,9 @@
         "master"
       ],
       "sort": 1140,
-      "logo_url": "https://bestleague.world/img/tvpublica.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tv-publica.webp",
       "tvg_id": "TelevisionPublica.ar"
     },
     {
@@ -1280,7 +1472,9 @@
         "master"
       ],
       "sort": 1140,
-      "logo_url": "https://bestleague.world/img/tyc.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tyc-sports.webp",
       "tvg_id": "TyCSports.ar"
     },
     {
@@ -1293,7 +1487,9 @@
         "test"
       ],
       "sort": 1150,
-      "logo_url": "https://bestleague.world/img/ip.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-ip.webp",
       "tvg_id": "24/7CanaldeNoticias.ar"
     },
     {
@@ -1306,7 +1502,9 @@
         "test"
       ],
       "sort": 1150,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Ltlcolor.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-la-tele-c4.png",
       "tvg_id": "LaTele.py"
     },
     {
@@ -1319,7 +1517,9 @@
         "test"
       ],
       "sort": 1150,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/tyc-sports-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tyc-internacional.png",
       "tvg_id": "TyCSports.ar"
     },
     {
@@ -1332,7 +1532,9 @@
         "test"
       ],
       "sort": 1150,
-      "logo_url": "https://bestleague.world/img/warner.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-warner.webp",
       "tvg_id": "WarnerChannel.ar"
     },
     {
@@ -1345,7 +1547,9 @@
         "test"
       ],
       "sort": 1160,
-      "logo_url": "https://bestleague.world/img/canal26.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-26.webp",
       "tvg_id": "Canal26.ar"
     },
     {
@@ -1358,7 +1562,9 @@
         "test"
       ],
       "sort": 1160,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/golden-mx.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-golden.png",
       "tvg_id": "Golden.ar"
     },
     {
@@ -1371,7 +1577,9 @@
         "test"
       ],
       "sort": 1160,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/NPY_Logo2023.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-noticias-py-c4.png",
       "tvg_id": "NoticiasParaguay.py"
     },
     {
@@ -1384,7 +1592,9 @@
         "test"
       ],
       "sort": 1160,
-      "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-tyc-sports-fan.png",
       "tvg_id": "tycsports.ar"
     },
     {
@@ -1397,7 +1607,9 @@
         "test"
       ],
       "sort": 1170,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/metro-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-metro.png",
       "tvg_id": "metro.ar"
     },
     {
@@ -1410,7 +1622,9 @@
         "test"
       ],
       "sort": 1170,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/SNT_2013.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-snt-c4.webp",
       "tvg_id": "SNT.py"
     },
     {
@@ -1423,7 +1637,9 @@
         "test"
       ],
       "sort": 1170,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/tnt-sports-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tnt-sports.png",
       "tvg_id": "TNTSports.ar"
     },
     {
@@ -1436,7 +1652,9 @@
         "test"
       ],
       "sort": 1170,
-      "logo_url": "https://bestleague.world/img/universalcinema.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-cinema.webp",
       "tvg_id": "UNIVERSALCINEMA.uy"
     },
     {
@@ -1449,7 +1667,9 @@
         "test"
       ],
       "sort": 1180,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/canal-10-junin.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-10-junin.png",
       "tvg_id": "canal10junin.ar"
     },
     {
@@ -1462,7 +1682,9 @@
         "test"
       ],
       "sort": 1180,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/tnt-sports-ar.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/chile-tnt-sports-chile.png",
       "tvg_id": "tntsports.cl"
     },
     {
@@ -1475,7 +1697,9 @@
         "test"
       ],
       "sort": 1180,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/TelefuturoLogo2022.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telefuturo-c4.png",
       "tvg_id": "Telefuturo.py"
     },
     {
@@ -1488,7 +1712,9 @@
         "test"
       ],
       "sort": 1180,
-      "logo_url": "https://bestleague.world/img/universalcomedy.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-comedy.webp",
       "tvg_id": "UNIVERSALCOMEDY.uy"
     },
     {
@@ -1501,7 +1727,9 @@
         "test"
       ],
       "sort": 1181,
-      "logo_url": "https://i.imgur.com/87WCHtd.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-10-cordoba.png",
       "tvg_id": "canal10cordoba.ar"
     },
     {
@@ -1514,6 +1742,8 @@
         "test"
       ],
       "sort": 1182,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://i.ibb.co/vvknBFv/canal10-tucuman.png",
       "tvg_id": "canal10tucuman.ar"
     },
@@ -1527,7 +1757,9 @@
         "test"
       ],
       "sort": 1183,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Doce_TV_Posadas_(Logo_2023).svg.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-12-misiones.png",
       "tvg_id": "canal12misiones.ar"
     },
     {
@@ -1540,6 +1772,8 @@
         "test"
       ],
       "sort": 1184,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://infonegocios.info/content/companies/logos/81031_Canal%20C.png",
       "tvg_id": "canalccordoba.ar"
     },
@@ -1553,6 +1787,8 @@
         "test"
       ],
       "sort": 1185,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://i.ibb.co/B6ZHDXy/america-tucuman.png",
       "tvg_id": "americatucuman.ar"
     },
@@ -1566,7 +1802,9 @@
         "test"
       ],
       "sort": 1190,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/canal-10-mar-del-plata.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-10-mar-del-plata.png",
       "tvg_id": "canal10mardelplata.ar"
     },
     {
@@ -1579,7 +1817,9 @@
         "test"
       ],
       "sort": 1190,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/PRO-PNG-BLANCO.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-pro.png",
       "tvg_id": "canal_pro.py"
     },
     {
@@ -1592,7 +1832,9 @@
         "test"
       ],
       "sort": 1190,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/dsports-lam.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-dsports.png",
       "tvg_id": "dsports.ar"
     },
     {
@@ -1605,7 +1847,9 @@
         "test"
       ],
       "sort": 1190,
-      "logo_url": "https://bestleague.world/img/universalcrime.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-crime.webp",
       "tvg_id": "UNIVERSALCRIME.uy"
     },
     {
@@ -1618,7 +1862,9 @@
         "test"
       ],
       "sort": 1200,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/dsports-plus-lam.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-dsports-plus.png",
       "tvg_id": "dsports_hd.ar"
     },
     {
@@ -1631,7 +1877,9 @@
         "test"
       ],
       "sort": 1200,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/teleJunin.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telejunin.png",
       "tvg_id": "telejunin.ar"
     },
     {
@@ -1644,7 +1892,9 @@
         "test"
       ],
       "sort": 1200,
-      "logo_url": "https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/2643036007742.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-unicanal.png",
       "tvg_id": "unicanal.py"
     },
     {
@@ -1657,7 +1907,9 @@
         "test"
       ],
       "sort": 1200,
-      "logo_url": "https://bestleague.world/img/universalpremiere.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-premiere.webp",
       "tvg_id": "UNIVERSALPREMIERE.uy"
     },
     {
@@ -1670,7 +1922,9 @@
         "test"
       ],
       "sort": 1210,
-      "logo_url": "https://bestleague.world/img/c9n.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-c9n.png",
       "tvg_id": "C9N.py"
     },
     {
@@ -1683,7 +1937,9 @@
         "test"
       ],
       "sort": 1210,
-      "logo_url": "https://bestleague.world/img/ciudad.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-ciudad-magazine.webp",
       "tvg_id": "CiudadMagazine.ar"
     },
     {
@@ -1696,7 +1952,9 @@
         "test"
       ],
       "sort": 1210,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/DSports.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-dsports-uy.png",
       "tvg_id": "DSportsUruguay.uy"
     },
     {
@@ -1709,7 +1967,9 @@
         "test"
       ],
       "sort": 1210,
-      "logo_url": "https://bestleague.world/img/universalreality.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-reality.webp",
       "tvg_id": "UNIVERSALREALITY.uy"
     },
     {
@@ -1722,7 +1982,9 @@
         "test"
       ],
       "sort": 1220,
-      "logo_url": "https://bestleague.world/img/canaldelaciudad.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canaldelaciudad.webp",
       "tvg_id": "CanalDeLaCiudad.ar"
     },
     {
@@ -1735,7 +1997,9 @@
         "test"
       ],
       "sort": 1220,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/dsports2-lam.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-dsports2-uy.png",
       "tvg_id": "DSports2Uruguay.uy"
     },
     {
@@ -1748,7 +2012,9 @@
         "test"
       ],
       "sort": 1220,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Logo_RTVE.es.svg.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tv-espana.png",
       "tvg_id": "RTVE.es"
     },
     {
@@ -1761,7 +2027,9 @@
         "test"
       ],
       "sort": 1220,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/universal-tv-ar (1).png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-universal-channel-hd.png",
       "tvg_id": "UniversalTV.ar"
     },
     {
@@ -1774,7 +2042,9 @@
         "test"
       ],
       "sort": 1230,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/antena-3-es.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-antena-3.png",
       "tvg_id": "antena3.es"
     },
     {
@@ -1787,7 +2057,9 @@
         "test"
       ],
       "sort": 1230,
-      "logo_url": "https://bestleague.world/img/arsat.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-argentinisima.png",
       "tvg_id": "ArgentinisimaSatelital.ar"
     },
     {
@@ -1800,7 +2072,9 @@
         "test"
       ],
       "sort": 1230,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/DSports.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-dsports-plus-uy.png",
       "tvg_id": "DSportsPlusUruguay.uy"
     },
     {
@@ -1813,7 +2087,9 @@
         "test"
       ],
       "sort": 1230,
-      "logo_url": "https://bestleague.world/img/tnt.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tnt.webp",
       "tvg_id": "TNT.ar"
     },
     {
@@ -1826,6 +2102,8 @@
         "test"
       ],
       "sort": 1240,
+      "provider": null,
+      "stream_type": null,
       "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png",
       "tvg_id": "fifaplus_internacional.ar"
     },
@@ -1839,7 +2117,9 @@
         "test"
       ],
       "sort": 1240,
-      "logo_url": "https://bestleague.world/img/tntseries.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tnt-series.webp",
       "tvg_id": "TNTSeries.ar"
     },
     {
@@ -1852,7 +2132,9 @@
         "test"
       ],
       "sort": 1240,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Logo_TV5_Monde_-_2021.svg.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tv5-monde.png",
       "tvg_id": "TV5MondeAmeriqueLatine.fr"
     },
     {
@@ -1865,7 +2147,9 @@
         "test"
       ],
       "sort": 1240,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/volver-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-volver.png",
       "tvg_id": "volver.ar"
     },
     {
@@ -1878,7 +2162,9 @@
         "test"
       ],
       "sort": 1250,
-      "logo_url": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/encuentro-ar.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-encuentro.png",
       "tvg_id": "encuentro.ar"
     },
     {
@@ -1891,7 +2177,9 @@
         "master"
       ],
       "sort": 1250,
-      "logo_url": "https://bestleague.world/img/nba.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-nba-tv.png",
       "tvg_id": "NBATV.ar"
     },
     {
@@ -1904,7 +2192,9 @@
         "test"
       ],
       "sort": 1250,
-      "logo_url": "https://bestleague.world/img/tntnovelas.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tnt-novelas.png",
       "tvg_id": "TNTNOVELAS.uy"
     },
     {
@@ -1917,7 +2207,9 @@
         "test"
       ],
       "sort": 1250,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/telemundo-international-ar (2).png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telemundo-hd.png",
       "tvg_id": "TelemundoInternacional.us"
     },
     {
@@ -1930,7 +2222,9 @@
         "test"
       ],
       "sort": 1255,
-      "logo_url": "https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-pasiones.png",
       "tvg_id": "pasiones.ar"
     },
     {
@@ -1943,7 +2237,9 @@
         "test"
       ],
       "sort": 1256,
-      "logo_url": "https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tln-novelas.png",
       "tvg_id": "tlnovelas.ar"
     },
     {
@@ -1956,7 +2252,9 @@
         "test"
       ],
       "sort": 1260,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/canal-a-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-a.png",
       "tvg_id": "canal_a.ar"
     },
     {
@@ -1969,7 +2267,9 @@
         "test"
       ],
       "sort": 1260,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/golf-channel-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-golf-channel.png",
       "tvg_id": "golf_channel.ar"
     },
     {
@@ -1982,7 +2282,9 @@
         "test"
       ],
       "sort": 1260,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/tcm-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tcm.png",
       "tvg_id": "tcm.ar"
     },
     {
@@ -1995,7 +2297,9 @@
         "test"
       ],
       "sort": 1260,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Logo_de_TV_Chile.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tv-chile.png",
       "tvg_id": "TVChile.cl"
     },
     {
@@ -2008,7 +2312,9 @@
         "test"
       ],
       "sort": 1270,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/rai-1-it.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/italia-rai-italia.png",
       "tvg_id": "rai_italia.ar"
     },
     {
@@ -2021,7 +2327,9 @@
         "test"
       ],
       "sort": 1270,
-      "logo_url": "https://bestleague.world/img/sony.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-sony-channel.webp",
       "tvg_id": "Sony.ar"
     },
     {
@@ -2034,7 +2342,9 @@
         "test"
       ],
       "sort": 1270,
-      "logo_url": "https://bestleague.world/img/telemax.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telemax.webp",
       "tvg_id": "Telemax.ar"
     },
     {
@@ -2047,7 +2357,9 @@
         "test"
       ],
       "sort": 1280,
-      "logo_url": "https://bestleague.world/img/adults.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-adult-swim.png",
       "tvg_id": "ADULTSWIM.uy"
     },
     {
@@ -2060,7 +2372,9 @@
         "test"
       ],
       "sort": 1280,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/el-ocho-tucuman.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-canal-8-tucuman.png",
       "tvg_id": null
     },
     {
@@ -2073,7 +2387,9 @@
         "test"
       ],
       "sort": 1280,
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-univision-hd.png",
       "tvg_id": "univision_hd.ar"
     },
     {
@@ -2086,7 +2402,9 @@
         "test"
       ],
       "sort": 1290,
-      "logo_url": "https://bestleague.world/img/hbo.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo.webp",
       "tvg_id": "HBO.ar"
     },
     {
@@ -2099,7 +2417,9 @@
         "test"
       ],
       "sort": 1290,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Las_Estrellas_logo_(2016).png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-las-estrellas.png",
       "tvg_id": "las_estrellas.ar"
     },
     {
@@ -2112,7 +2432,9 @@
         "test"
       ],
       "sort": 1290,
-      "logo_url": "https://bestleague.world/img/nettv.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-net-tv.webp",
       "tvg_id": "net_tv.ar"
     },
     {
@@ -2125,7 +2447,9 @@
         "test"
       ],
       "sort": 1300,
-      "logo_url": "https://bestleague.world/img/dtv.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-diputados-tv.webp",
       "tvg_id": "diputadostv.ar"
     },
     {
@@ -2138,7 +2462,9 @@
         "test"
       ],
       "sort": 1300,
-      "logo_url": "https://bestleague.world/img/hbo2.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-2.webp",
       "tvg_id": "HBO2.ar"
     },
     {
@@ -2151,7 +2477,9 @@
         "test"
       ],
       "sort": 1300,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Telefe_Internacional_(2018).png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-telefe-internacional.png",
       "tvg_id": "telefeinternacional.ar"
     },
     {
@@ -2164,7 +2492,9 @@
         "test"
       ],
       "sort": 1310,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Eltrece_Internacional_2017.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-el-trece-internacional.png",
       "tvg_id": "eltreceinternacional.ar"
     },
     {
@@ -2177,7 +2507,9 @@
         "test"
       ],
       "sort": 1310,
-      "logo_url": "https://bestleague.world/img/hboplus.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-plus.webp",
       "tvg_id": "HBOPlus(Panamericano).ar"
     },
     {
@@ -2190,7 +2522,9 @@
         "test"
       ],
       "sort": 1310,
-      "logo_url": "https://bestleague.world/img/rural.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-rural.webp",
       "tvg_id": "CanalRural.ar"
     },
     {
@@ -2203,7 +2537,9 @@
         "test"
       ],
       "sort": 1320,
-      "logo_url": "https://bestleague.world/img/hbofam.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-family.webp",
       "tvg_id": "HBOFamily.ar"
     },
     {
@@ -2216,6 +2552,8 @@
         "test"
       ],
       "sort": 1320,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihwU2t6DGM7T2CLKAWcCzUcUjySb3XZHJuw&s",
       "tvg_id": "somosbahiablanca.ar"
     },
@@ -2229,7 +2567,9 @@
         "test"
       ],
       "sort": 1330,
-      "logo_url": "https://bestleague.world/img/hboxtreme.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-xtreme.webp",
       "tvg_id": "HBOXtreme.ar"
     },
     {
@@ -2242,6 +2582,8 @@
         "test"
       ],
       "sort": 1330,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGnXL-g9Q8Z1C6ZihDETcgSh-NvT1iNMMYpA&s",
       "tvg_id": "somoscorrientes.ar"
     },
@@ -2255,7 +2597,9 @@
         "test"
       ],
       "sort": 1340,
-      "logo_url": "https://bestleague.world/img/hbomundi.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-mundi.webp",
       "tvg_id": "HBOMundi.ar"
     },
     {
@@ -2268,7 +2612,9 @@
         "test"
       ],
       "sort": 1340,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/images.jpg",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": null,
       "tvg_id": "somoselvalle.ar"
     },
     {
@@ -2281,7 +2627,9 @@
         "test"
       ],
       "sort": 1350,
-      "logo_url": "https://bestleague.world/img/hbopop.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-pop.webp",
       "tvg_id": "HBOPop.ar"
     },
     {
@@ -2294,6 +2642,8 @@
         "test"
       ],
       "sort": 1350,
+      "provider": "flow",
+      "stream_type": "dash",
       "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNoh-IlnEG1YvhT0YsB8IWevwPGG7b16D-g&s",
       "tvg_id": "somoslaplata.ar"
     },
@@ -2307,7 +2657,9 @@
         "test"
       ],
       "sort": 1360,
-      "logo_url": "https://bestleague.world/img/hbosig.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hbo-sig.webp",
       "tvg_id": "HBOSignature.ar"
     },
     {
@@ -2320,7 +2672,9 @@
         "test"
       ],
       "sort": 1360,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/images (1).jpg",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": null,
       "tvg_id": "somosmardelplata.ar"
     },
     {
@@ -2333,7 +2687,9 @@
         "test"
       ],
       "sort": 1370,
-      "logo_url": "https://bestleague.world/img/uss.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1wvk5cwda1bgrizhzjbxm9.png",
       "tvg_id": "UniversalTV.ar"
     },
     {
@@ -2346,7 +2702,9 @@
         "test"
       ],
       "sort": 1380,
-      "logo_url": "https://bestleague.world/img/amc-sr.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1rvtfewdfobgntbgxjdz09.png",
       "tvg_id": "AMC.ar"
     },
     {
@@ -2359,7 +2717,9 @@
         "test"
       ],
       "sort": 1390,
-      "logo_url": "https://bestleague.world/img/comedy.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-comedy-central.webp",
       "tvg_id": "ComedyCentral.ar"
     },
     {
@@ -2372,7 +2732,9 @@
         "test"
       ],
       "sort": 1400,
-      "logo_url": "https://bestleague.world/img/food.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-food-network.webp",
       "tvg_id": "foodnetwork.ar"
     },
     {
@@ -2385,7 +2747,9 @@
         "test"
       ],
       "sort": 1410,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/hgtv-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-hgtv.png",
       "tvg_id": "hgtv.ar"
     },
     {
@@ -2398,7 +2762,9 @@
         "test"
       ],
       "sort": 1420,
-      "logo_url": "https://bestleague.world/img/studio.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-studio-universal.webp",
       "tvg_id": "studiouniversal.ar"
     },
     {
@@ -2411,7 +2777,9 @@
         "test"
       ],
       "sort": 1430,
-      "logo_url": "https://bestleague.world/img/sun.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-sun-channel.png",
       "tvg_id": "sunchannel.ve"
     },
     {
@@ -2424,7 +2792,9 @@
         "test"
       ],
       "sort": 1440,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/cinemax-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-cinemax.png",
       "tvg_id": "cinemax.ar"
     },
     {
@@ -2437,7 +2807,9 @@
         "test"
       ],
       "sort": 1450,
-      "logo_url": "https://i.imgur.com/bZWoDTg.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-sony-cine.png",
       "tvg_id": "sony_cine.ar"
     },
     {
@@ -2450,7 +2822,9 @@
         "test"
       ],
       "sort": 1460,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/kzo-ar.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-kzo.png",
       "tvg_id": "kzo.ar"
     },
     {
@@ -2463,7 +2837,9 @@
         "master"
       ],
       "sort": 1520,
-      "logo_url": "https://bestleague.world/img/mtv.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1uvljxwdborq.webp",
       "tvg_id": "MTV.ar"
     },
     {
@@ -2476,7 +2852,9 @@
         "master"
       ],
       "sort": 1620,
-      "logo_url": "https://bestleague.world/img/quiero.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1vwfzwwlhkdlgwaeu.webp",
       "tvg_id": "Quiero.ar"
     },
     {
@@ -2489,7 +2867,9 @@
         "master"
       ],
       "sort": 1740,
-      "logo_url": "https://bestleague.world/img/tvc.png",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--en-vivo-tv-ciudad.png",
       "tvg_id": "TVCIUDAD.uy"
     },
     {
@@ -2502,7 +2882,9 @@
         "master"
       ],
       "sort": 1840,
-      "logo_url": "https://bestleague.world/img/garagetv.webp",
+      "provider": "flow",
+      "stream_type": "dash",
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/ch--eventos-sin-chat--r-l2h0bwwvzmwvp2dldd1sv3hmujjgevlxzgw.webp",
       "tvg_id": "ElGarageTv.ar"
     },
     {
@@ -2515,7 +2897,9 @@
         "test"
       ],
       "sort": 8340,
-      "logo_url": "https://raw.githubusercontent.com/lpiriz-oss/PiposIPTV/main/logos/Logo_The_Simpsons.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/argentina-los-simpsons.png",
       "tvg_id": "lossimpsons.ar"
     },
     {
@@ -2528,7 +2912,9 @@
         "test"
       ],
       "sort": 8350,
-      "logo_url": "https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-dragon-ball-24-7.png",
       "tvg_id": "dragon_ball_24_7.ar"
     },
     {
@@ -2541,7 +2927,9 @@
         "test"
       ],
       "sort": 8360,
-      "logo_url": "https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png",
+      "provider": null,
+      "stream_type": null,
+      "logo_url": "https://flexo-admin-api.flexo-api.workers.dev/logos/test-dragon-ball-super-24-7.png",
       "tvg_id": "dragon_ball_super_24_7.ar"
     }
   ]
