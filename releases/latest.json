@@ -1,13 +1,13 @@
 {
-  "versionCode": 31,
-  "versionName": "0.1.30",
+  "versionCode": 34,
+  "versionName": "0.1.33",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.30.apk",
-  "sha256": "21f4c681b8e5106b8b561b6b01d49b4cf07873183198db5a690c544bc840e065",
-  "sizeBytes": 54761592,
-  "releasedAt": "2026-07-24T06:11:00Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.33.apk",
+  "sha256": "b70684aab44608106c03e3a4d917d721782404f72e38f0073fae2782d878d4ab",
+  "sizeBytes": 54778682,
+  "releasedAt": "2026-07-24T06:31:06Z",
   "mandatory": true,
   "notes": [
-    "Correccion de video en la seccion TV y restauracion de TextureView."
+    "Correcciones de reproducción ON DEMAND y estabilidad del reproductor."
   ]
 }
