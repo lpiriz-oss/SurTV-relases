@@ -1,13 +1,13 @@
 {
-  "versionCode": 38,
-  "versionName": "0.1.37",
+  "versionCode": 39,
+  "versionName": "0.1.38",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.37.apk",
-  "sha256": "14348a0e5255b702c97d3b86d904e6c17d3730e4d4b12c81018654e176782bc4",
-  "sizeBytes": 51077053,
-  "releasedAt": "2026-07-24T22:10:32Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.38.apk",
+  "sha256": "286411dee90b2360a058cfbeeff7b8f5e317d62f1ae68345163e6ec01dbd9a9c",
+  "sizeBytes": 51077042,
+  "releasedAt": "2026-07-24T22:59:16Z",
   "mandatory": true,
   "notes": [
-    "Actualiza ON DEMAND: recomendaciones dinámicas, carriles paginados, hero de Anime y mejoras del buscador."
+    "Corrige el cambio de ON DEMAND a TV para que cada canal abra siempre su transmisión en vivo."
   ]
 }
