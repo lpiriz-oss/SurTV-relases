@@ -1,13 +1,13 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.25",
+  "versionCode": 30,
+  "versionName": "0.1.29",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.25.apk",
-  "sha256": "82dd29d90ae2c9e6cdf2867790dd71c4a3278532994add0a4c44bb6468cacce1",
-  "sizeBytes": 3871351,
-  "releasedAt": "2026-07-06T03:02:37Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.29.apk",
+  "sha256": "1a3c286a89efc3a86a91045bc6009521af9f8a9c859f1d1c4728e9eb0cb39828",
+  "sizeBytes": 54761595,
+  "releasedAt": "2026-07-24T06:03:11Z",
   "mandatory": true,
   "notes": [
-    "Inclusión de canales de Pruebas en el bundle encriptado local."
+    "Nueva seccion ON DEMAND, catalogo VOD v4 y mejoras de reproduccion."
   ]
 }
