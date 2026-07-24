@@ -1,13 +1,13 @@
 {
-  "versionCode": 36,
-  "versionName": "0.1.35",
+  "versionCode": 37,
+  "versionName": "0.1.36",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.35.apk",
-  "sha256": "bf52becc967ba2043c7cb3786dbdb331872138343c61e2186c01b86cc2ec0eef",
-  "sizeBytes": 54795684,
-  "releasedAt": "2026-07-24T07:17:40Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.36.apk",
+  "sha256": "aa3e022b32880d317f9c05cc7b80faa611a9fc3666fcfe78802614439925dcdd",
+  "sizeBytes": 54795691,
+  "releasedAt": "2026-07-24T12:21:19Z",
   "mandatory": true,
   "notes": [
-    "Compatibilidad reforzada de video ON DEMAND en distintos dispositivos."
+    "Corrige la pantalla blanca de ON DEMAND en dispositivos Android TV reales mediante una salida de video compatible."
   ]
 }
