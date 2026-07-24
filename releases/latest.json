@@ -1,13 +1,13 @@
 {
-  "versionCode": 35,
-  "versionName": "0.1.34",
+  "versionCode": 36,
+  "versionName": "0.1.35",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.34.apk",
-  "sha256": "e6d17e1a519ede9ffcbad2b0fef32f760324184550642b075d9014ac733eb959",
-  "sizeBytes": 54795680,
-  "releasedAt": "2026-07-24T07:08:12Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.35.apk",
+  "sha256": "bf52becc967ba2043c7cb3786dbdb331872138343c61e2186c01b86cc2ec0eef",
+  "sizeBytes": 54795684,
+  "releasedAt": "2026-07-24T07:17:40Z",
   "mandatory": true,
   "notes": [
-    "Correccion de pantalla de video ON DEMAND en dispositivos reales."
+    "Compatibilidad reforzada de video ON DEMAND en distintos dispositivos."
   ]
 }
