@@ -1,13 +1,13 @@
 {
-  "versionCode": 30,
-  "versionName": "0.1.29",
+  "versionCode": 31,
+  "versionName": "0.1.30",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.29.apk",
-  "sha256": "1a3c286a89efc3a86a91045bc6009521af9f8a9c859f1d1c4728e9eb0cb39828",
-  "sizeBytes": 54761595,
-  "releasedAt": "2026-07-24T06:03:11Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.30.apk",
+  "sha256": "21f4c681b8e5106b8b561b6b01d49b4cf07873183198db5a690c544bc840e065",
+  "sizeBytes": 54761592,
+  "releasedAt": "2026-07-24T06:11:00Z",
   "mandatory": true,
   "notes": [
-    "Nueva seccion ON DEMAND, catalogo VOD v4 y mejoras de reproduccion."
+    "Correccion de video en la seccion TV y restauracion de TextureView."
   ]
 }
