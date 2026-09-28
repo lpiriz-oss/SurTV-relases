@@ -1,13 +1,13 @@
 {
-  "versionCode": 43,
-  "versionName": "0.1.42",
+  "versionCode": 44,
+  "versionName": "0.1.43",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.42.apk",
-  "sha256": "2e13523c410c78e3e379e21585c6d4409bb296f51d625992fe22d6af4ff6fb69",
-  "sizeBytes": 33879482,
-  "releasedAt": "2026-09-28T13:02:54Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.43.apk",
+  "sha256": "fbf8e9da8e7da863c9654f65bacb6870ae1797a835f514a1ae58155d96e8b0f0",
+  "sizeBytes": 33879496,
+  "releasedAt": "2026-09-28T14:19:04Z",
   "mandatory": false,
   "notes": [
-    "Actualizacion de reproduccion y estados de canales sin fuente."
+    "Mejoras generales."
   ]
 }
