@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "algorithm": "AES-256-CBC+HMAC-SHA256",
+  "iv_hex": "d0d3aac9251756660cea5307c5897bfd",
+  "hmac_sha256": "650b04b02e94b8e5249ae676af182f23be92c71c543c2f8e51ebf0bcccf6ae3a",
+  "source": "SurTV/data/canales.json",
+  "channel_count": 224,
+  "drm_channel_count": 209,
+  "generated_at": "2026-09-28T01:23:39Z"
+}
