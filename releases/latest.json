@@ -1,13 +1,13 @@
 {
-  "versionCode": 41,
-  "versionName": "0.1.40",
+  "versionCode": 42,
+  "versionName": "0.1.41",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.40.apk",
-  "sha256": "b1b23a10d3be39e3d180305917fb967cc7faaf36c86d393cf0cea5f09299e582",
-  "sizeBytes": 33879512,
-  "releasedAt": "2026-09-28T04:56:21Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.41.apk",
+  "sha256": "116ea894eb34657524a3c8f3e09039048b0cd36cf9ae820c36f503f97988f4c1",
+  "sizeBytes": 33879502,
+  "releasedAt": "2026-09-28T12:35:04Z",
   "mandatory": false,
   "notes": [
-    "Mejoras de reproduccion en vivo, origen Flow/Portal visible y guia de programacion corregida. Vista previa oculta en canales Portal."
+    "Catalogo de TV online con actualizacion automatica y manual. Se ocultan los canales sin fuente disponible y se conserva el catalogo en cache si falla la conexion."
   ]
 }
