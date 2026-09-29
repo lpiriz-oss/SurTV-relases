@@ -1,13 +1,13 @@
 {
-  "versionCode": 48,
-  "versionName": "0.1.47",
+  "versionCode": 49,
+  "versionName": "0.1.48",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.47.apk",
-  "sha256": "b04a4bda8e992b90b661fbc5dbf5fdf6393429dd2ce7ec40478241f6e8780d49",
-  "sizeBytes": 33887458,
-  "releasedAt": "2026-09-29T20:04:53Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.48.apk",
+  "sha256": "84b667561f321022fe50d0de4b2ca307f9fb58e7b3b05e59412993771ff98194",
+  "sizeBytes": 33889655,
+  "releasedAt": "2026-09-29T20:23:33Z",
   "mandatory": false,
   "notes": [
-    "Mejoras en navegacion de guia, categorias y pantalla de inicio."
+    "Canales Uruguay por PortalCore: Canal 10, Canal 12, VTV Plus y AUF TV."
   ]
 }
