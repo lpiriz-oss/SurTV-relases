@@ -1,13 +1,13 @@
 {
-  "versionCode": 45,
-  "versionName": "0.1.44",
+  "versionCode": 46,
+  "versionName": "0.1.45",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.44.apk",
-  "sha256": "3f4a86f6aef2c62e4e3bdfc978416ea02dbca33ddd215d73cf1614d163983cd2",
-  "sizeBytes": 33879373,
-  "releasedAt": "2026-09-28T19:10:38Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.45.apk",
+  "sha256": "561291aff3a6f3e03329d2009c12331daa20df30e9605f1d552b136b223398c7",
+  "sizeBytes": 33888128,
+  "releasedAt": "2026-09-29T14:35:48Z",
   "mandatory": false,
   "notes": [
-    "Recuperación de canales Flow y mejoras de reproducción."
+    "Mejoras varias."
   ]
 }
