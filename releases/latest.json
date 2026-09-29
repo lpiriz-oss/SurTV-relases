@@ -1,13 +1,13 @@
 {
-  "versionCode": 47,
-  "versionName": "0.1.46",
+  "versionCode": 48,
+  "versionName": "0.1.47",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.46.apk",
-  "sha256": "ed55d33ca6c52ec0e3e78fa71babdf71061333e2e3270153d532343ebd0bd561",
-  "sizeBytes": 33888159,
-  "releasedAt": "2026-09-29T18:24:10Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.47.apk",
+  "sha256": "b04a4bda8e992b90b661fbc5dbf5fdf6393429dd2ce7ec40478241f6e8780d49",
+  "sizeBytes": 33887458,
+  "releasedAt": "2026-09-29T20:04:53Z",
   "mandatory": false,
   "notes": [
-    "Mejoras en navegacion de canales, selector de categorias y fondo de inicio configurable."
+    "Mejoras en navegacion de guia, categorias y pantalla de inicio."
   ]
 }
