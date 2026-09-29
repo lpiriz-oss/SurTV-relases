@@ -1,13 +1,13 @@
 {
-  "versionCode": 49,
-  "versionName": "0.1.48",
+  "versionCode": 50,
+  "versionName": "0.1.49",
   "minSupportedVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.48.apk",
-  "sha256": "84b667561f321022fe50d0de4b2ca307f9fb58e7b3b05e59412993771ff98194",
-  "sizeBytes": 33889655,
-  "releasedAt": "2026-09-29T20:23:33Z",
+  "apkUrl": "https://raw.githubusercontent.com/lpiriz-oss/SurTV-relases/main/releases/apk/surtv-0.1.49.apk",
+  "sha256": "7f89a29edeb2412ca432be5422932f3165655367e2cf6334489752538db786bb",
+  "sizeBytes": 33909735,
+  "releasedAt": "2026-09-29T22:48:50Z",
   "mandatory": false,
   "notes": [
-    "Canales Uruguay por PortalCore: Canal 10, Canal 12, VTV Plus y AUF TV."
+    "Mejora el inicio y el zapping de canales Portal."
   ]
 }
